@@ -6,8 +6,10 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2015/16.
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal. Tukaj boste
-napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+Analiziral bom angleško Premier ligo, ki je najbolj gledana nogometna liga na svetu. Analiziral bom klube in igralce v sezoni 2014/2015.
+Podatke bom pridobil na straneh:
+http://www.optasports.com/events/premier-league.aspx
+http://www.premierleague.com/en-gb.html
 
 ## Program
 
