@@ -10,7 +10,7 @@ Analiziral bom angleško Premier ligo, ki je najbolj gledana nogometna liga na s
 Podatke bom pridobil na straneh:
 http://www.optasports.com/events/premier-league.aspx
 http://www.premierleague.com/en-gb.html
-
+http://www.whoscored.com/Regions/252/Tournaments/2/Seasons/4311
 ## Program
 
 Glavni program in poročilo se nahajata v datoteki `projekt.Rmd`. Ko ga prevedemo,
