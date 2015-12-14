@@ -6,11 +6,9 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2015/16.
 
 ## Tematika
 
-Analiziral bom angleško Premier ligo, ki je najbolj gledana nogometna liga na svetu. Analiziral bom klube in igralce v sezoni 2014/2015.
-Podatke bom pridobil na straneh:
-http://www.optasports.com/events/premier-league.aspx
-http://www.premierleague.com/en-gb.html
-http://www.whoscored.com/Regions/252/Tournaments/2/Seasons/4311
+Analiziral bom angleško Premier ligo, ki je najbolj gledana nogometna liga na svetu. Analiziral bom igralce v sezoni 2014/2015. Izbral bom najboljših 100 igralcev(glede na oceno na portalu WhoScored) in jih analiziral glede na vse detailne prvine nogometne igre.
+Podatke bom pridobil na strani:
+http://www.whoscored.com/Regions/252/Tournaments/2/Seasons/4311/Stages/9155/PlayerStatistics/England-Premier-League-2014-2015
 ## Program
 
 Glavni program in poročilo se nahajata v datoteki `projekt.Rmd`. Ko ga prevedemo,
