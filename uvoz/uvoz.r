@@ -62,3 +62,10 @@ imena <- skupna.tabela[,1]
 row.names(skupna.tabela) <- imena
 skupna.tabela$name <- NULL
 colnames(skupna.tabela) <- c("Club","Position","Age","Height","Weight","Apps","Minutes played","Substitute On","Rating","MOTM","Goals","Assists","Yellow Cards","Red Cards","Aerial Won PerGame=PG","Tackle PG","Interception PG","Foul PG","Offside won PG","Clearance PG","Dribbled past PG","Block PG","Own Goals","Shot PG","Key pass PG","Successful dribble PG","Foul given PG","Offside given PG","Disposessed PG","Turnover PG","Passes PG","Accurate crosses PG","Accurate long pass PG","Accurate through ball PG","Pass success")
+                                                         
+
+graf1 <- ggplot(skupna.tabela, aes(x = Rating, y=Goals)) + geom_point(colour="darkgreen")+geom_smooth(colour="red")
+graf2 <- ggplot(skupna.tabela, aes(x = Rating, y=Assists)) + geom_point(colour="blue") + geom_smooth(colour="red")
+
+
+
